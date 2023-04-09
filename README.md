@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Ahmet</h2>
-<h5 align="center">Jr. Software Developer | Fresh Computer Engineer</h5>
+<h1 align="center">Hi 👋, I'm Ahmet</h1>
+<h3 align="center">Jr. Software Developer | Fresh Computer Engineer</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetcancs&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetcancs" /></p>
 
