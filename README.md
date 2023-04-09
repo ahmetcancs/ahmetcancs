@@ -5,15 +5,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcancs&show_icons=true&theme=dark&locale=en" alt="ahmetcancs" /></p>
 
-- 🔭 I’m currently working on backend development [MedioCLINIC](https://github.com/ahmetcancs/medio-clinic)
+- 🔭 I’m currently working on [MedioCLINIC](https://github.com/ahmetcancs/medio-clinic) backend development 
 
 - 🌱 I’m currently learning **.NET, Angular, Bootstrap**
 
-- 📝 I regularly write articles on [https://medium.com/@ahmetcan16](https://medium.com/@ahmetcan16)
-
 - 📫 How to reach me **ahmetcan9816@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/ahmetcan16](www.linkedin.com/in/ahmetcan16)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
