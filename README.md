@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Jr. Software Developer | Fresh Computer Engineer</h3>
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=ahmetcancs&label=Profile%20views&color=0e37b4&style=plastic" alt="ahmetcancs" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetcancs&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetcancs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcancs&show_icons=true&theme=dark&locale=en" alt="ahmetcancs" /></p>
 
 - 🔭 I’m currently working on [MedioCLINIC](https://github.com/ahmetcancs/medio-clinic) backend development 
 
