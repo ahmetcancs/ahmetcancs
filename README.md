@@ -4,9 +4,9 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetcancs&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="ahmetcancs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcancs&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ahmetcancs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetcancs&show_icons=true&title_color=000000&text_color=0195df&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="ahmetcancs" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcancs&show_icons=true&text_color=0195df&bg_color=ffffff&hide_border=true&locale=en" alt="ahmetcancs" /></p>
 <br>
 
 ## 💫 About Me:
