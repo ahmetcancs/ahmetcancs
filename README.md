@@ -11,7 +11,7 @@
 
 ## 💫 About Me: 
 
-- 🔭 I’m currently working on [Traversal Core Project](https://github.com/ahmetcancs/TraversalCoreProject) backend development 
+- 🔭 I’m currently studying on [Easy Cash Identity](https://github.com/ahmetcancs/EasyCashIdentityProject) backend development 
 
 - 🌱 I’m currently learning **.NET, Angular, Bootstrap**
 
