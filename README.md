@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ahmetcan9816@gmail.com**
 
-<p align="center"> <a href="https://twitter.com/ahmetcan_cs" target="blank"><img src="https://img.shields.io/twitter/follow/ahmetcan_cs?logo=twitter&style=for-the-badge" alt="ahmetcan_cs" /></a> </p>
-
 # <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ahmetcan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetcan16" height="30" width="40" /></a>
