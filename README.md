@@ -11,8 +11,6 @@
 
 ## 💫 About Me: 
 
-- 🔭 I’m currently studying on [Easy Cash Identity](https://github.com/ahmetcancs/EasyCashIdentityProject) backend development 
-
 - 🌱 I’m currently learning **.NET, Angular, Bootstrap**
 
 - 📫 How to reach me **ahmetcan9816@gmail.com**
