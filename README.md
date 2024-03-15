@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">Jr. Software Developer | Fresh Computer Engineer</h3>
+<h3 align="center">Backend Developer</h3>
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=ahmetcancs&label=Profile%20views&color=0e37b4&style=plastic" alt="ahmetcancs" /> </p>
 
 ## 📊 GitHub Stats:
